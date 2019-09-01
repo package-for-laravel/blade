@@ -17,3 +17,7 @@ This takes a route string or array and returns the word `active` if that pattern
 ```
 
 This would make a class of `menu-link active` when you are on routes named `users.index` or `users.create`, but just `menu-link` on `companies.index`.
+
+## Credits
+
+This package is created and maintained by [Aaron Saray](https://github.com/aaronsaray) 
