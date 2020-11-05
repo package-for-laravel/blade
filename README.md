@@ -1,5 +1,9 @@
 # Package for Laravel Blade Helpers and Tools
 
+```
+ARCHIVED: This project is archived and no longer maintained.
+```
+
 This adds useful blade tools.
 
 ## Installation
